@@ -1,0 +1,31 @@
+{
+  "name": "TESTE-DE-MUSICA",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/builders": "^0.10.0",
+    "@discordjs/voice": "^0.7.5",
+    "@distube/soundcloud": "^1.0.0",
+    "@distube/spotify": "^1.0.0",
+    "@ksoft/api": "^3.1.9",
+    "body-parser": "^1.19.1",
+    "colors": "^1.4.0",
+    "discord.js": "^13.4.0",
+    "distube": "^3.0.4",
+    "ejs": "^3.1.6",
+    "enmap": "^5.8.7",
+    "express": "^4.17.2",
+    "ffmpeg-static": "^4.4.0",
+    "https-proxy-agent": "^5.0.0",
+    "libsodium-wrappers": "^0.7.9",
+    "passport": "^0.5.2",
+    "passport-discord": "^0.1.4"
+  }
+}
